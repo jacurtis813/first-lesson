@@ -7,4 +7,5 @@ Self- Taught Until Degree Courses Begin
 * Using divs and spans
 * Div is for grouping content in block
 * Span is for grouping content inline
- 
+* Using relative paths for images
+* Using anchor tags to link external sites
