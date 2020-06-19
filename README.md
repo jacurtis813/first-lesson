@@ -9,3 +9,4 @@ Self- Taught Until Degree Courses Begin
 * Span is for grouping content inline
 * Using relative paths for images
 * Using anchor tags to link external sites
+* Creating tables using the <table> and <tr> tag elements.
