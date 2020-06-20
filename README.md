@@ -10,3 +10,4 @@ Self- Taught Until Degree Courses Begin
 * Using relative paths for images
 * Using anchor tags to link external sites
 * Creating tables using the <table> and <tr> tag elements.
+* Create table while using imported data
