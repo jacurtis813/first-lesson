@@ -13,4 +13,4 @@ Self- Taught Until Degree Courses Begin
 * Create table while using imported data
 * Import/ Extract zipped data to fullfill the tables
 * HTML forms, using inputs and labels
-* Learn all input types and how they work
+* Learn all input types and how they work 
