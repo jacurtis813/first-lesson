@@ -23,4 +23,4 @@ Self- Taught Until Degree Courses Begin
 * Apply all together. Then use the standard syntax for screen readers, etc.
 * Working with 'for' and 'id' to give meaning to the data
 * Working with HTML validations. Required attribute within the input tag/ element. Email validations
-* Working with dropdowns and Radio buttons
+* Working with dropdowns and Radio buttons, select tags, name attributes, etc.
