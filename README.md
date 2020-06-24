@@ -16,5 +16,11 @@ Self- Taught Until Degree Courses Begin
 * Learn all input types and how they work
 * Creating forms with placeholders
 * Create an action and method to show the meaning of how? and why?
-* In this case we have used the action of : http://wikipedia.org and the method of : GET. Once clicking submit this brought us to the wikipedia web browser for the get request we placed within the form. This is just to show how we can send data to. However we will learn how to create our own back-end so that way we do have some place to get and pull data. 
+* In this case we have used the action of : http://wikipedia.org and the method of : GET. Once clicking submit this brought us to the wikipedia web browser for the get request we placed within the form. This is just to show how we can send data to. However we will learn how to create our own back-end so that way we do have some place to get and pull data
 * Working with labels in the form
+* Working with the proper nesting of a form
+* Working with <input> attributes. Type, placeholder, required,
+* Apply all together. Then use the standard syntax for screen readers, etc.
+* Working with 'for' and 'id' to give meaning to the data
+* Working with HTML validations. Required attribute within the input tag/ element. Email validations
+* Working with dropdowns and Radio buttons

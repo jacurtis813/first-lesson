@@ -88,11 +88,13 @@
     <!-- we will use the 'for' and the 'id' attribute for access. stan.  -->
     <form>
 
-        <label for="username">Username:</label>
-        <input id="username" type="text" placeholder="username">
+        <label for="username">Email:</label>
+        <!-- This is the input type of 'email and the field required is shown within the input 
+        this means that the email must be a valid email before continuing -->
+        <input id="username" type="email" placeholder="email" required="true">
 
         <label for="password">Password:</label>
-        <input id="password" type="password" placeholder="password">
+        <input id="password" type="password" placeholder="password" required="true">
 
         <button>Log In</button>
 
