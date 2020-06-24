@@ -8,6 +8,7 @@
 <!-- body start -->
 
 <body>
+    <!-- Start of the table-->
     <h1>Creating Tables</h1>
 
     <p>In the first section we have learned how to create tables in three different ways.</br>
@@ -61,16 +62,43 @@
     <!-- Form only places the content within to its own container -->
     <!-- Action: where the form send data to -->
     <!-- Method: what HTTP method (get/post) request type -->
-    <form>
-        <!-- Here we will learn how to create an input for the form using both text and password -->
-        <input type="text" placeholder="username">
-        <input type="password" placeholder="password">
-        <!-- Next we will create a button after the input of information -->
-        <!-- two ways to create the submit button -->
-        <button>Submit</button>
-        <input type="submit">
-    </form>
 
+    <!-- Made this form a comment to use the best practice of a form
+    <form>
+
+        <label>
+            Username:
+            <input type="text" placeholder="username">
+        </label>
+
+        <label>
+            Password:
+            <input type="password" placeholder="password">
+        </label>
+
+        <label>
+            Click To Submit
+            <input type="submit">
+        </label>
+
+    </form> 
+    -->
+
+    <!-- Alternate syntax for screen readers accessibility standards -->
+    <!-- we will use the 'for' and the 'id' attribute for access. stan.  -->
+    <form>
+
+        <label for="username">Username:</label>
+        <input id="username" type="text" placeholder="username">
+
+        <label for="password">Password:</label>
+        <input id="password" type="password" placeholder="password">
+
+        <button>Log In</button>
+
+    </form>
+    <!-- Another note about forms. Without the <form> element the content will act as inline.
+         With the <form> element this information is now within a block element. -->
     <a href="index.html">Click to go back to the home page.</a>
 
 </body>
